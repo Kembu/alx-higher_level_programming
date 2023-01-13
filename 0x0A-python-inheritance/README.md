@@ -1,2 +1,1 @@
-This is where the tasks on python inheritance will be done
-
+This is here tasks on ihneritance will be done
